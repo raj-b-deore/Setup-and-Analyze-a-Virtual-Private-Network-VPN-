@@ -1,4 +1,4 @@
-# Setup-and-Analyze-a-Virtual-Private-Network-VPN
+# 🔐 Setup-and-Analyze-a-Virtual-Private-Network-VPN 🛡️
 
 ## 🎯 Objective
 To understand the role of Virtual Private Networks (VPNs) in protecting user privacy and enabling secure communication over the internet.
@@ -46,7 +46,7 @@ Connection Status: ✅ Connected Successfully
 Visited: https://whatismyipaddress.com  
 Observed original IP address.
 
-
+<img width="1013" height="561" alt="Image" src="https://github.com/user-attachments/assets/e1869878-66f2-49f5-b2f9-c2cb3a1e6f24" />
 
 ---
 
@@ -56,7 +56,7 @@ Connected to VPN server and refreshed IP address.
 
 Observed changed IP address.
 
-
+<img width="1005" height="652" alt="Image" src="https://github.com/user-attachments/assets/fb2552d2-83af-42b7-b542-7d51b19f633a" />
 
 ---
 
@@ -66,7 +66,7 @@ Visited a website (e.g., https://google.com) after connecting to VPN.
 
 Traffic was successfully routed through VPN server.
 
-
+<img width="886" height="808" alt="Image" src="https://github.com/user-attachments/assets/632c5dbc-6f3e-4526-8b64-3d8467b67152" />
 
 ---
 
@@ -77,7 +77,7 @@ Disconnected VPN from ProtonVPN application.
 - Browsing speed without VPN was faster.
 - IP address returned to original value.
 
-
+<img width="888" height="812" alt="Image" src="https://github.com/user-attachments/assets/5a7b8806-f89a-4337-97c7-92841bb91869" />
 
 ---
 
